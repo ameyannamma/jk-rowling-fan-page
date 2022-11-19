@@ -17,7 +17,7 @@ The blog also has a section for the creaters point of view on how they enjoyed r
 
 ## Sample
 A sample of the main page is given below
-![alt text](MainPage.jpg)
+![Main Page Sample](Images/MainPage.jpg)
  
 ## Installation
 In order to execute the code, Visual Studio needs to be installed. 
