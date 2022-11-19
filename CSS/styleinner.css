@@ -1,0 +1,100 @@
+/* Amey Abraham-8739103 */
+
+/* Inner Page CSS exlculuding common elements */
+.innerBox1 {
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: 1fr 1fr;
+}
+h2 {
+  font-family: "Roboto Slab", serif;
+  font-size: 50px;
+}
+
+.innerHero {
+  position: relative;
+  text-align: center;
+}
+
+.innerHero h2 {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  color: white;
+  padding: 100px;
+}
+video {
+  max-width: 100%;
+}
+.innerVideo {
+  position: relative;
+}
+.innerBox1 {
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: 1fr 1fr;
+  padding: 30px;
+}
+h4 {
+  color: #472d30;
+  text-align: center;
+  font-size: large;
+}
+table {
+  border-collapse: collapse;
+  max-width: 100%;
+  padding: 30px;
+  margin: auto;
+}
+td,
+th {
+  border: 2px solid black;
+  padding: 5px 10px;
+}
+
+/* Form CSS */
+
+.posterForm {
+  border: 2px solid maroon;
+  padding: 20px;
+}
+form {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 10px;
+}
+
+form input:focus {
+  background-color: blanchedalmond;
+}
+
+.posterMain {
+  width: 400px;
+
+  margin: 5px 5px 5px 30px;
+  border: 2px solid maroon;
+  padding: 20px;
+  border-radius: 5px;
+}
+.posteraside {
+  width: 400px;
+
+  margin: 5px 5px 5px 5px;
+  border: 2px solid maroon;
+  padding: 20px;
+  border-radius: 5p;
+}
+
+.submit_reset {
+  margin: 10px;
+  padding: 15px;
+}
+.posterLeft {
+  padding: 5px;
+}
+
+.posterElements {
+  padding: 10px;
+}
