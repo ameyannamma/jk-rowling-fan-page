@@ -17,6 +17,7 @@ The blog also has a section for the creaters point of view on how they enjoyed r
 
 ## Sample
 A sample of the main page is given below
+
 ![Main Page Sample](Images/MainPage.jpg)
  
 ## Installation
